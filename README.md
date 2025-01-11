@@ -2,7 +2,7 @@
 
 ・プレイ方法
 
-  https://www.emulator-zone.com/doc.php/misc/winarcadia.html
+https://www.emulator-zone.com/doc.php/misc/winarcadia.html
 
 上のリンクからアルカディアのエミュレータをダウンロード
 
