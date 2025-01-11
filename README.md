@@ -1,7 +1,8 @@
 こちらはアルカディア（ゲーム機）でじゃんけんをするだけのシステムとなっております。
 
 ・プレイ方法
-「https://www.emulator-zone.com/doc.php/misc/winarcadia.html　」からアルカディアのエミュレータをダウンロード
+https://www.emulator-zone.com/doc.php/misc/winarcadia.html
+上のリンクからアルカディアのエミュレータをダウンロード
 ファイルを解凍後、WinArcadia.exeを起動し、Options → Speed → NTSC を選択
 janken.bin をエミュレータにドラッグ＆ドロップ
 
