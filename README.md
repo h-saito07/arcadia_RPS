@@ -1,5 +1,7 @@
 こちらはアルカディア（ゲーム機）でじゃんけんをするだけのシステムとなっております。
 
+文字だけで音もありませんが、よろしければ遊んでみてください。
+
 ・プレイ方法
 
 https://www.emulator-zone.com/doc.php/misc/winarcadia.html
