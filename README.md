@@ -1,5 +1,6 @@
 こちらはアルカディア（ゲーム機）でじゃんけんをするだけのシステムとなっております。
 
+
 ・プレイ方法
 
 https://www.emulator-zone.com/doc.php/misc/winarcadia.html
@@ -10,6 +11,7 @@ https://www.emulator-zone.com/doc.php/misc/winarcadia.html
 
 janken.bin をエミュレータにドラッグ＆ドロップ
 
+
 ・遊び方
 
 キー「1」...進む。じゃんけん中は「rock」の手を出す
@@ -17,5 +19,6 @@ janken.bin をエミュレータにドラッグ＆ドロップ
 キー「2」...じゃんけん中に「paper」の手を出す
 
 キー「3」...じゃんけん中に「scissors」の手を出す
+
 
 ファイルの中身は、バイナリエディタ（Stirling等）で確認することができます。
