@@ -2,6 +2,8 @@
 
 文字だけで音もない簡素なものですが、よろしければ遊んでみてください。
 
+　
+
 ・プレイ方法
 
 https://www.emulator-zone.com/doc.php/misc/winarcadia.html
@@ -11,6 +13,8 @@ https://www.emulator-zone.com/doc.php/misc/winarcadia.html
 ファイルを解凍後、WinArcadia.exeを起動し、Options → Speed → NTSC を選択
   
 janken.bin をエミュレータにドラッグ＆ドロップ
+
+　
 
 ・遊び方
 
