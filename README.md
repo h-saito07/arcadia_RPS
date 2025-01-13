@@ -30,6 +30,6 @@ janken.bin をエミュレータにドラッグ＆ドロップ
 
 ↓↓↓ 作るにあたって参考にさせていただいた動画シリーズ Part1 リンク ↓↓↓
 
-https://www.nicovideo.jp/watch/sm40419289
-
 アルカディアのゲームを作ろう（提案）.mp1 / nuu様
+
+https://www.nicovideo.jp/watch/sm40419289
